@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+header {
+    background-color: #00AB6F;
+    padding: 10px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 33px;
+
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    font-size: 36px;
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 7px 42px;
+    margin: 50px;
+}
+
+.green {
+    border: 5px solid #58EE00;
+}
+
+h1 {
+    color: #0C5AA6;
+    text-align: center;
+    margin-top: 41px;
+    font-size: 64px;
+    font-weight: 400;
+}
+
+.mainimg {
+    text-align: center;
+    background-color: #60D5AC;
+    margin: 30px 104px 51px 104px;
+    padding: 33px 76px;
+}   
+
+h2 {
+    background-color: #83F03C;
+    color: black;
+    font-weight: 400;
+    margin: 51px;
+    width: max-content;
+    padding: 17px 71px;
+    font-size: 57px;
+}
+
+div {
+    padding: 32px 29px;
+    margin: 21px;
+    font-size: 24px;
+    border: 5px solid #0C5AA6;
+}
+
+ul {
+    list-style: url("https://static-algoritmika-org.ngcdn.ru/uploads/student/70472999/6af9ea7f6e1b6.png");
+    margin-left: 59px;
+    margin-top: 15px;
+}
+
+.magaz {
+    text-decoration: none;
+    color: black;
+    background-color: #60D5AC;
+    font-size: 36px;
+    margin-top: 31px;
+    display: inline-block;
+    padding: 12px 22px;
+}
+
+footer {
+    padding: 9px 25px;
+    background-color: #0C5AA6;
+}
+
+footer p {
+    background-color: white;
+    font-size: 36px;
+}
+
+.telifon {
+    margin-bottom: 11px
+}
